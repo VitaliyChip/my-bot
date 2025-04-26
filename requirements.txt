@@ -1,1 +1,4 @@
-pyTelegramBotAPI[telebot]
+pyTelegramBotAPI==4.14.1
+requests
+six
+pytz
